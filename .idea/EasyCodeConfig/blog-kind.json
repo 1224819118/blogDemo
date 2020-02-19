@@ -1,0 +1,24 @@
+{
+  "name" : "Kind",
+  "comment" : "博客表",
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "name",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.example.blogdemo",
+  "savePath" : "./src/main/java/com/example/blogdemo",
+  "saveModelName" : "blogdemo"
+}

@@ -1,0 +1,31 @@
+{
+  "name" : "ArticleCommit",
+  "comment" : "关联文章和评论的表",
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "articleid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "commitid",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.example.blogdemo",
+  "savePath" : "./src/main/java/com/example/blogdemo",
+  "saveModelName" : "blogdemo"
+}
